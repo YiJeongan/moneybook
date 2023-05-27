@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/css/main.44f8b8b5.css",
-    "main.js": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/js/main.224b3825.js",
-    "static/js/787.0f24cefc.chunk.js": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/js/787.0f24cefc.chunk.js",
-    "index.html": "/git@github.com:YiJeongan/OOAD-moneybook.git/index.html",
-    "main.44f8b8b5.css.map": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/css/main.44f8b8b5.css.map",
-    "main.224b3825.js.map": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/js/main.224b3825.js.map",
-    "787.0f24cefc.chunk.js.map": "/git@github.com:YiJeongan/OOAD-moneybook.git/static/js/787.0f24cefc.chunk.js.map"
+    "main.css": "/YiJeongan/OOAD-moneybook.git/static/css/main.44f8b8b5.css",
+    "main.js": "/YiJeongan/OOAD-moneybook.git/static/js/main.db4446f6.js",
+    "static/js/787.0f24cefc.chunk.js": "/YiJeongan/OOAD-moneybook.git/static/js/787.0f24cefc.chunk.js",
+    "index.html": "/YiJeongan/OOAD-moneybook.git/index.html",
+    "main.44f8b8b5.css.map": "/YiJeongan/OOAD-moneybook.git/static/css/main.44f8b8b5.css.map",
+    "main.db4446f6.js.map": "/YiJeongan/OOAD-moneybook.git/static/js/main.db4446f6.js.map",
+    "787.0f24cefc.chunk.js.map": "/YiJeongan/OOAD-moneybook.git/static/js/787.0f24cefc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.224b3825.js"
+    "static/js/main.db4446f6.js"
   ]
 }
